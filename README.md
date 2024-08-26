@@ -1,2 +1,2 @@
-# project_SQL
+# reto_SQL
 Reto SQL
